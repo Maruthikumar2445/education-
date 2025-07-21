@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUESTION ANSWER EVALUATION</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            background-color: #f5f5f5;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 2rem;
+        }
+
+        .section {
+            margin-bottom: 2rem;
+            padding: 1.5rem;
+            border: 1px solid #e0e0e0;
+            border-radius: 5px;
+        }
+
+        .section h2 {
+            margin-bottom: 1rem;
+            color: #444;
+        }
+
+        .upload-container {
+            text-align: center;
+        }
+
+        .file-input {
+            display: none;
+        }
+
+        .upload-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            margin: 1rem 0;
+            transition: background-color 0.3s;
+        }
+
+        .upload-button:hover {
+            background-color: #45a049;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 1rem 0;
+            display: none;
+        }
+
+        .progress {
+            width: 0%;
+            height: 100%;
+            background-color: #4CAF50;
+            transition: width 0.3s;
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 100px;
+            padding: 10px;
+            margin: 0.5rem 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            resize: vertical;
+        }
+
+        .button {
+            background-color: #2196F3;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            margin: 0.5rem 0;
+            transition: background-color 0.3s;
+        }
+
+        .button:hover {
+            background-color: #1976D2;
+        }
+
+        .evaluation-result {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 5px;
+            margin-top: 1rem;
+            white-space: pre-wrap;
+        }
+
+        .download-button {
+            background-color: #FF5722;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            margin: 1rem 0;
+            transition: background-color 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .download-button:hover {
+            background-color: #F4511E;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 1rem 0;
+        }
+
+        .loading::after {
+            content: "Loading...";
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>QUESTION ANSWER EVALUATION</h1>
+        
+        <!-- Video Upload Section -->
+        <div class="section">
+            <h2>Upload pdf</h2>
+            <div class="upload-container">
+                <input type="file" id="videoInput" class="file-input" accept="video/*">
+                <button class="upload-button" onclick="document.getElementById('videoInput').click()">
+                    Choose pdf File
+                </button>
+                <div class="progress-bar">
+                    <div class="progress"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Extracted Text Section -->
+        <div class="section">
+            <h2>Extracted Text</h2>
+            <textarea id="extractedText" readonly placeholder="Extracted text will appear here..."></textarea>
+        </div>
+
+        <!-- Question and Answer Section -->
+        <div class="section">
+            <h2>Question and Answer</h2>
+            <textarea id="questionInput" placeholder="Enter your question here..."></textarea>
+            <textarea id="answerInput" placeholder="Enter your answer here..."></textarea>
+            <button class="button" onclick="evaluateAnswer()">Evaluate Answer</button>
+        </div>
+
+        <!-- Evaluation Results Section -->
+        <div class="section">
+            <h2>Evaluation Results</h2>
+            <div id="evaluationResult" class="evaluation-result"></div>
+            <button class="button" onclick="generateReport()">Generate Report</button>
+            <a id="downloadLink" class="download-button" style="display: none;">Download Report</a>
+        </div>
+    </div>
+
+    <script>
+        // File upload handling
+        document.getElementById('videoInput').addEventListener('change', async function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const formData = new FormData();
+            formData.append('video', file);
+
+            const progressBar = document.querySelector('.progress-bar');
+            const progress = document.querySelector('.progress');
+            progressBar.style.display = 'block';
+
+            try {
+                const response = await fetch('/upload_video', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    document.getElementById('extractedText').value = data.text;
+                } else {
+                    const error = await response.json();
+                    alert('Error: ' + error.error);
+                }
+            } catch (error) {
+                alert('Error uploading video: ' + error.message);
+            }
+
+            progressBar.style.display = 'none';
+        });
+
+        // Evaluate answer
+        async function evaluateAnswer() {
+            const question = document.getElementById('questionInput').value;
+            const answer = document.getElementById('answerInput').value;
+
+            if (!question || !answer) {
+                alert('Please enter both question and answer.');
+                return;
+            }
+
+            try {
+                const response = await fetch('/evaluate', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ question, answer })
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    document.getElementById('evaluationResult').textContent = data.evaluation;
+                } else {
+                    const error = await response.json();
+                    alert('Error: ' + error.error);
+                }
+            } catch (error) {
+                alert('Error evaluating answer: ' + error.message);
+            }
+        }
+
+        // Generate report
+        async function generateReport() {
+            const question = document.getElementById('questionInput').value;
+            const answer = document.getElementById('answerInput').value;
+            const evaluation = document.getElementById('evaluationResult').textContent;
+
+            if (!question || !answer || !evaluation) {
+                alert('Please ensure question, answer, and evaluation are complete.');
+                return;
+            }
+
+            try {
+                const response = await fetch('/generate_report', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ question, answer, evaluation })
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    const downloadLink = document.getElementById('downloadLink');
+                    downloadLink.href = `/download_report/${data.filename}`;
+                    downloadLink.style.display = 'inline-block';
+                } else {
+                    const error = await response.json();
+                    alert('Error: ' + error.error);
+                }
+            } catch (error) {
+                alert('Error generating report: ' + error.message);
+            }
+        }
+    </script>
+</body>
+</html>
