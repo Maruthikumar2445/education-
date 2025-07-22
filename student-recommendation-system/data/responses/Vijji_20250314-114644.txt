@@ -1,0 +1,116 @@
+Okay, here's a personalized learning plan tailored to your preferences for improving your math and computer science skills as a visual learner in high school, using primarily free, certified online courses and videos.
+
+**OVERALL GOAL:** To strengthen foundational math skills relevant to computer science and develop intermediate coding proficiency.
+
+**SUBJECT 1: MATHEMATICS (Focus on Discrete Math/Logic)**
+
+*Why Discrete Math/Logic?* It's fundamental to computer science, covering topics like sets, logic, graph theory, and combinatorics. It lays the groundwork for algorithms, data structures, and programming logic.
+
+**Recommended Resources:**
+
+1.  **Resource Name:** *Introduction to Mathematical Thinking*
+    *   **Provider:** Stanford University via Coursera
+    *   **Description:** This course teaches you how to think like a mathematician. It is helpful for learning proof techniques, problem-solving strategies, and basic number theory, all of which are applicable to computer science. It will teach you how to read, understand, devise, and communicate mathematical arguments.
+    *   **Estimated Time Commitment:** 4-6 hours per week
+    *   **Link:** [https://www.coursera.org/learn/mathematical-thinking](https://www.coursera.org/learn/mathematical-thinking) (Audit for free)
+    *   **Cost:** Audit is free, certificate is paid.
+    *   **Why it fits your preferences:** It relies heavily on visual explanations and problem-solving examples. It helps build a strong foundation.
+
+2.  **Resource Name:** *Discrete Mathematics Specialization*
+    *   **Provider:** University of California San Diego via Coursera
+    *   **Description:** This Specialization covers topics essential for computer science, including logic, proofs, relations, graph theory, counting, and probability.
+    *   **Estimated Time Commitment:** 3-5 hours per week
+    *   **Link:** [https://www.coursera.org/specializations/discrete-mathematics](https://www.coursera.org/specializations/discrete-mathematics) (Audit for free each course)
+    *   **Cost:** Audit is free, certificate is paid for each course.
+    *   **Why it fits your preferences:**  The courses use visual aids, animations, and interactive exercises to reinforce concepts.
+
+3.  **Resource Name:** *Khan Academy: Precalculus*
+    *   **Provider:** Khan Academy
+    *   **Description:** This provides a visual and interactive exploration of precalculus concepts.  While you might already have covered some precalculus, this course is recommended as its content on trigonometry will be helpful for subjects like game design.
+    *   **Estimated Time Commitment:** 1-2 hours per week
+    *   **Link:** [https://www.khanacademy.org/math/precalculus](https://www.khanacademy.org/math/precalculus)
+    *   **Cost:** Free
+    *   **Why it fits your preferences:** Khan Academy is highly visual, using videos and interactive exercises to explain concepts.  It's self-paced.
+
+**SUBJECT 2: COMPUTER SCIENCE (Focus on Python Programming)**
+
+*Why Python?* Python is beginner-friendly, versatile, and widely used in various computer science fields, including web development, data science, and machine learning.
+
+**Recommended Resources:**
+
+1.  **Resource Name:** *Python for Everybody Specialization*
+    *   **Provider:** University of Michigan via Coursera
+    *   **Description:** This specialization teaches you the fundamentals of Python programming from scratch. It covers data structures, databases, and web technologies.
+    *   **Estimated Time Commitment:** 4-6 hours per week
+    *   **Link:** [https://www.coursera.org/specializations/python](https://www.coursera.org/specializations/python) (Audit for free each course)
+    *   **Cost:** Audit is free, certificate is paid for each course.
+    *   **Why it fits your preferences:** The instructor is known for clear explanations and coding demonstrations.
+
+2.  **Resource Name:** *freeCodeCamp's Scientific Computing with Python Certification*
+    *   **Provider:** freeCodeCamp
+    *   **Description:** This certification teaches Python through building five projects: a Probability Calculator, a Time Calculator, a Polygon Area Calculator, a Budget App, and a Arithmetic Formatter.
+    *   **Estimated Time Commitment:** 4-6 hours per week
+    *   **Link:** [https://www.freecodecamp.org/learn/scientific-computing-with-python/](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+    *   **Cost:** Free
+    *   **Why it fits your preferences:** The course relies on a large amount of practical exercises that help students become familiar with python commands.
+
+3.  **Resource Name:** *Google's Python Class*
+    *   **Provider:** Google
+    *   **Description:** A comprehensive tutorial with video lectures, written materials, and coding exercises. Covers basic data types, strings, lists, dictionaries, and more advanced concepts.
+    *   **Estimated Time Commitment:** 2-3 hours per week
+    *   **Link:** [https://developers.google.com/edu/python/](https://developers.google.com/edu/python/)
+    *   **Cost:** Free
+    *   **Why it fits your preferences:**  Provides clear, concise video lectures and well-structured written materials.
+
+**Suggested Weekly Schedule (10 hours total):**
+
+*   **Monday:**
+    *   Math (Introduction to Mathematical Thinking): 1 hour
+    *   Computer Science (Python for Everybody): 1 hour
+*   **Tuesday:**
+    *   Math (Introduction to Mathematical Thinking): 1 hour
+    *   Computer Science (Python for Everybody): 1 hour
+*   **Wednesday:**
+    *   Math (Discrete Mathematics Specialization): 1 hour
+*   **Thursday:**
+    *   Computer Science (freeCodeCamp Python Certification): 2 hours
+*   **Friday:**
+    *   Math (Khan Academy Precalculus): 1 hour
+    *   Computer Science (Google Python Class): 1 hour
+
+**Important Considerations for the Schedule:**
+
+*   **Flexibility:**  This is just a suggestion. Adjust based on your energy levels and other commitments.  Some weeks you might focus more on math, others on coding.
+*   **Breaks:** Take frequent breaks during study sessions. The Pomodoro Technique (25 minutes work, 5 minutes break) can be helpful.
+*   **Practice:** Don't just watch videos and read materials.  Spend time actively coding, solving problems, and working on projects. This is crucial for learning.
+*   **Review:** Regularly review previously learned material to reinforce your understanding.
+*   **Weekend Option:**  If weekdays are too busy, shift some of the schedule to the weekend.
+
+**Additional Tools and Communities:**
+
+*   **Coding Editors/IDEs:** VS Code, PyCharm (Community Edition - free), Repl.it (online IDE)
+*   **Math Software:**  GeoGebra (free for geometry, algebra, calculus), Desmos (online graphing calculator)
+*   **Online Communities:**
+    *   **Stack Overflow:**  A great resource for getting answers to specific programming questions.
+    *   **Reddit:** Subreddits like r/learnprogramming, r/computerscience, r/math.
+    *   **Discord Servers:** Many online courses have associated Discord servers where you can interact with other learners.
+*   **Note-Taking:**  Use a tool like Notion, OneNote, or even a physical notebook to take notes and organize your learning. Mind maps can be particularly helpful for visual learners.
+*   **GitHub:** Learn to use GitHub for version control and to share your projects.
+
+**Key Strategies for Visual Learners:**
+
+*   **Diagrams and Charts:** Draw diagrams, flowcharts, and mind maps to visualize concepts.
+*   **Color-Coding:** Use color-coding in your notes and code to highlight important information.
+*   **Animations:** Look for resources that use animations and interactive simulations to explain concepts.
+*   **Whiteboarding:** Use a whiteboard or virtual whiteboard to work through problems and brainstorm ideas.
+*   **Code Visualization Tools:** Explore tools that visualize code execution or data structures.
+
+**Important Tips:**
+
+*   **Start Slow:** Don't try to do too much at once. Begin with the basics and gradually increase the difficulty.
+*   **Be Patient:** Learning takes time and effort. Don't get discouraged if you don't understand something right away.
+*   **Ask Questions:** Don't be afraid to ask questions in online forums or communities.
+*   **Celebrate Successes:** Acknowledge and celebrate your progress, no matter how small.
+*   **Stay Consistent:** Consistency is key to achieving your learning goals. Stick to your schedule as much as possible, even when you don't feel like it.
+
+This plan is a starting point.  Be prepared to adjust it as you learn more about your own learning style and preferences. Good luck!

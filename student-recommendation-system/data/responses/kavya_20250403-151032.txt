@@ -1,0 +1,130 @@
+Okay, here is a personalized learning plan designed around your preferences for High School level Math and Computer Science, focusing on visual learning, intermediate difficulty, online courses and videos, with a commitment of 10 hours per week.  It includes certified (where available) and paid resources.
+
+**Learning Goals (Implicit):**  Since you didn't specify precise learning goals, I'll assume you want to improve your overall competence in Math and Computer Science, focusing on concepts commonly taught at the High School intermediate level, with a view to future learning and potential college studies.
+
+**Assumptions:** You have a foundation in basic Algebra, Geometry, and introductory programming concepts.
+
+## Personalized Learning Plan: Math & Computer Science (Visual Focus)
+
+**I. Mathematics**
+
+*   **Goal:** Solidify understanding of advanced algebra, trigonometry, and begin exploring calculus concepts.
+
+**Recommended Resources:**
+
+1.  **Resource Name:** Calculus 1A: Differentiation (edX, Harvard University)
+    *   **Provider:** edX
+    *   **Description:** This is the first course in the series, and it gives an introduction to differential calculus. It covers functions, limits, continuity, derivatives of algebraic, trigonometric, exponential, and logarithmic functions, the chain rule, implicit differentiation, related rates, linear approximation, and applications of the derivative.
+    *   **Estimated Time Commitment:** 6-10 hours per week.
+    *   **Link:** [https://www.edx.org/course/calculus-1a-differentiation](https://www.edx.org/course/calculus-1a-differentiation)
+    *   **Cost:** Free to Audit, $199 for Certificate.
+    *   **Why it matches:** While not explicitly visual, the Harvard courses are extremely well-produced, with clear explanations and examples.  You can supplement the lectures with visual resources like Khan Academy (see below). The rigor of this course is a good foundation for future study.
+
+2.  **Resource Name:** 3Blue1Brown Essence of Calculus
+    *   **Provider:** YouTube
+    *   **Description:** A series of beautifully animated videos that provide a highly visual and intuitive understanding of the fundamental concepts of calculus. Uses geometric and visual analogies to explain limits, derivatives, and integrals.
+    *   **Estimated Time Commitment:** 2-3 hours per week.
+    *   **Link:** [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    *   **Cost:** Free
+    *   **Why it matches:**  This is *perfect* for a visual learner.  The animations are exceptional and make abstract concepts concrete. Best used to *supplement* a more formal course.
+
+3.  **Resource Name:** Khan Academy: AP Calculus AB & BC
+    *   **Provider:** Khan Academy
+    *   **Description:** A comprehensive, free resource covering advanced algebra, trigonometry, precalculus, and introductory calculus. Includes videos, exercises, and practice problems.  Specifically, focus on the Precalculus section and then the AP Calculus AB section.
+    *   **Estimated Time Commitment:** As needed, to reinforce concepts from the Harvard course and 3Blue1Brown.  1-2 hours per week to start.
+    *   **Link:** [https://www.khanacademy.org/math/calculus-1](https://www.khanacademy.org/math/calculus-1) (Calculus AB), [https://www.khanacademy.org/math/ap-calculus-bc](https://www.khanacademy.org/math/ap-calculus-bc) (Calculus BC)
+    *   **Cost:** Free
+    *   **Why it matches:** While not specifically designed for visual learners, Khan Academy does have strong visual aids, such as graphing tools, as well as a lot of practice questions for all the topics.
+
+4.  **Resource Name:**  "Visual Complex Analysis" by Tristan Needham
+    *   **Provider:** Amazon (Book)
+    *   **Description:** This book takes a geometric approach to complex analysis, emphasizing visual understanding over rigorous proofs. It can provide a different perspective on mathematical concepts. It's an advanced text, but the visual approach is highly beneficial.
+    *   **Estimated Time Commitment:** 1-2 hours per week, reading and working through examples.
+    *   **Link:** [https://www.amazon.com/Visual-Complex-Analysis-Tristan-Needham/dp/0198534469](https://www.amazon.com/Visual-Complex-Analysis-Tristan-Needham/dp/0198534469)
+    *   **Cost:** ~$40-50
+
+**II. Computer Science**
+
+*   **Goal:** Develop a solid foundation in Python programming, data structures, and algorithms.  Explore visual programming concepts.
+
+**Recommended Resources:**
+
+1.  **Resource Name:** Python for Everybody Specialization (Coursera, University of Michigan)
+    *   **Provider:** Coursera
+    *   **Description:** A well-structured specialization covering the fundamentals of Python programming, from basic syntax to data structures and databases.
+    *   **Estimated Time Commitment:** 5-7 hours per week.
+    *   **Link:** [https://www.coursera.org/specializations/python](https://www.coursera.org/specializations/python)
+    *   **Cost:**  Subscription-based, Coursera Plus offers the best value if you plan to take multiple courses. ~$49/month (individual course enrollment may vary). Financial aid is also available.
+    *   **Why it matches:** Excellent lectures, well-designed projects, and focuses on practical application, building programming skills.
+
+2.  **Resource Name:** MIT 6.0001 Introduction to Computer Science and Programming in Python (MIT OpenCourseWare)
+    *   **Provider:** MIT OpenCourseWare
+    *   **Description:** This is a classic introductory course, now taught in Python.  The material is freely available, including lecture videos, assignments, and quizzes.
+    *   **Estimated Time Commitment:** 4-6 hours per week.
+    *   **Link:** [https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+    *   **Cost:** Free
+    *   **Why it matches:** The lectures are clear, and the assignments are challenging but rewarding. Although you don't get direct feedback, it's still an incredible resource.
+
+3.  **Resource Name:** VisuAlgo - Visualising Data Structures and Algorithms through Animation
+    *   **Provider:** Steven Halim, Felix Halim
+    *   **Description:** An interactive website with visual animations that help explain different data structures and algorithms.
+    *   **Estimated Time Commitment:** 1-2 hours per week.
+    *   **Link:** [https://visualgo.net/en](https://visualgo.net/en)
+    *   **Cost:** Free
+    *   **Why it matches:** Perfect for the visual learner, this tool allows you to step through various data structures and algorithms, and see how they work in real-time.
+
+4.  **Resource Name:** Scratch
+    *   **Provider:** MIT Media Lab
+    *   **Description:** A visual programming language designed for beginners. While seemingly simple, it helps solidify fundamental programming concepts like loops, conditionals, and variables using a drag-and-drop interface.  It allows you to create interactive stories, games, and animations.
+    *   **Estimated Time Commitment:** 1-2 hours per week.
+    *   **Link:** [https://scratch.mit.edu/](https://scratch.mit.edu/)
+    *   **Cost:** Free
+    *   **Why it matches:**  Scratch is inherently visual, and an excellent way to reinforce basic programming concepts before moving to more text-based languages.
+
+**III. Suggested Schedule (10 Hours Per Week)**
+
+This schedule is flexible and should be adjusted based on your progress and preferences.  Prioritize subjects you find more challenging or more interesting.
+
+*   **Monday:**
+    *   Math: Calculus 1A Lecture (1 hour) + Practice Problems (1 hour)
+    *   Computer Science: Python for Everybody Lecture (1 hour)
+
+*   **Tuesday:**
+    *   Math: 3Blue1Brown video (30 mins) + Khan Academy practice (30 mins)
+    *   Computer Science: Python for Everybody Programming Assignment (1.5 hours)
+
+*   **Wednesday:**
+    *   Math: Calculus 1A Lecture (1 hour) + Practice Problems (1 hour)
+
+*   **Thursday:**
+    *   Computer Science:  MIT 6.0001 Lecture (1 hour) + Practice Problems (1 hour)
+
+*   **Friday:**
+    *   Computer Science: VisuAlgo - Explore data structures/algorithms (1 hour) or Scratch project work (1 hour)
+
+*   **Saturday/Sunday:** Rest, or catch up on any missed material.
+
+**Important Notes on Schedule:**
+
+*   **Flexibility:** This is a guideline. Feel free to adjust the time allocation based on your interests and progress. Some weeks you might spend more time on math, others on computer science.
+*   **Breaks:** Take frequent short breaks during your study sessions to stay focused.
+*   **Review:** Regularly review past material to reinforce your understanding.
+*   **Experiment:** Try different learning styles to find what works best for you. While you said you're a visual learner, you might find that some auditory or kinesthetic techniques also help.
+
+**IV. Additional Tools and Communities**
+
+*   **Desmos (Graphing Calculator):** [https://www.desmos.com/calculator](https://www.desmos.com/calculator) - An excellent online graphing calculator that is easy to use and has many features.
+*   **GeoGebra:** [https://www.geogebra.org/](https://www.geogebra.org/) - Dynamic mathematics software for all levels of education that joins arithmetic, geometry, algebra and calculus.
+*   **Stack Overflow:** [https://stackoverflow.com/](https://stackoverflow.com/) - A question and answer website for programmers.  A great resource for troubleshooting coding problems.
+*   **Reddit Communities:**
+    *   r/learnmath
+    *   r/learnprogramming
+    *   r/computerscience
+
+**V.  Personalization and Adaptation**
+
+*   **Regularly assess your progress:**  Are you understanding the material?  Are the courses challenging enough?  If a resource isn't working for you, don't be afraid to switch to a different one.
+*   **Adjust the difficulty level:** If you find the resources too easy, look for more advanced materials. If they are too difficult, review the prerequisites or find simpler explanations.
+*   **Focus on your strengths:** If you are particularly strong in one area (e.g., algebra), use that to your advantage when learning more difficult concepts (e.g., calculus).
+
+This learning plan is a starting point. Customize it to fit your individual needs, interests, and goals. Good luck with your learning journey!

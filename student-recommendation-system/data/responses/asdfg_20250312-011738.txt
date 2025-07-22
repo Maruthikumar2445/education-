@@ -1,0 +1,109 @@
+Okay! Here’s a structured learning plan tailored to your preferences, focusing on free resources for high school mathematics and computer science, geared towards a visual learner at an intermediate level, with 40 hours per week available.
+
+**Overview:**
+
+This plan balances structured courses with hands-on practice and community engagement.  We’ll break down your 40 hours per week into dedicated slots for Math and CS. Remember to adjust the schedule and pace based on your individual progress and enjoyment.
+
+**I. Mathematics (20 Hours/Week)**
+
+*   **Learning Goals:** Solidify foundational concepts, explore advanced topics like calculus, linear algebra, and gain problem-solving proficiency.
+
+**A. Recommended Resources:**
+
+1.  **Resource Name:** Khan Academy (Mathematics)
+    *   **Provider:** Khan Academy
+    *   **Description:** Covers a vast range of math topics from basic arithmetic to calculus, linear algebra, differential equations, and statistics. Features video lectures, practice exercises, and personalized learning paths.
+    *   **Estimated Time Commitment:** 8-10 hours/week
+    *   **Link:** [https://www.khanacademy.org/math](https://www.khanacademy.org/math)
+    *   **Cost:** Free
+    *   **Why it Matches:** Excellent for visual learners due to its clear and concise video explanations. Offers a structured learning path with ample practice. Adaptable to your intermediate level – you can focus on advanced Algebra, Precalculus, Calculus, Linear Algebra, etc.
+
+2.  **Resource Name:** 3Blue1Brown (Essence of Calculus, Essence of Linear Algebra)
+    *   **Provider:** YouTube Channel
+    *   **Description:** This YouTube channel provides incredibly beautiful and intuitive visual explanations of calculus and linear algebra concepts.
+    *   **Estimated Time Commitment:** 3-5 hours/week
+    *   **Link:** [https://www.youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown)
+    *   **Cost:** Free
+    *   **Why it Matches:** Highly visual and conceptual. Helps build a deeper understanding beyond just memorizing formulas. Perfect for visual learners.
+
+3.  **Resource Name:** Art of Problem Solving (AoPS)
+    *   **Provider:** Art of Problem Solving
+    *   **Description:** Offers a wide range of math resources, including free videos, practice problems, and forums. The focus is on developing problem-solving skills.
+    *   **Estimated Time Commitment:** 4-6 hours/week
+    *   **Link:** [https://artofproblemsolving.com/](https://artofproblemsolving.com/)
+    *   **Cost:** Free content is available. AoPS books and courses usually cost money
+    *   **Why it Matches:** Contains problem-solving strategies with visual solutions and video explanations. The forums are an excellent resource for collaborative learning.
+
+**B. Suggested Schedule (Mathematics):**
+
+*   **Monday:** Khan Academy (2 hours) - Focus on Calculus or Precalculus modules.
+*   **Tuesday:** 3Blue1Brown (1.5 hours) - Watch videos on Calculus or Linear Algebra.
+*   **Wednesday:** Khan Academy (2 hours) - Work on practice problems.
+*   **Thursday:** 3Blue1Brown (1.5 hours) - Watch videos on Calculus or Linear Algebra.
+*   **Friday:** AoPS (3 hours) - Focus on problem-solving practice.
+*   **Saturday:** Khan Academy (3 hours) - Review and practice.
+*   **Sunday:** Free Day.
+
+**II. Computer Science (20 Hours/Week)**
+
+*   **Learning Goals:** Develop programming skills, explore fundamental CS concepts like algorithms and data structures, and potentially dive into a specific area like web development or game development.
+
+**A. Recommended Resources:**
+
+1.  **Resource Name:** freeCodeCamp
+    *   **Provider:** freeCodeCamp.org
+    *   **Description:** Offers a comprehensive curriculum covering web development (HTML, CSS, JavaScript, React, Node.js), data science, and other CS topics.  Project-based learning with coding challenges.
+    *   **Estimated Time Commitment:** 8-10 hours/week
+    *   **Link:** [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+    *   **Cost:** Free
+    *   **Why it Matches:** Very hands-on and visual (you see your code come to life).  Excellent for building a portfolio of projects.
+
+2.  **Resource Name:** CS50's Introduction to Computer Science
+    *   **Provider:** Harvard University (via edX and YouTube)
+    *   **Description:**  A foundational computer science course that covers a wide range of topics, including algorithms, data structures, memory management, and web development.  Uses C as the primary language initially, then introduces Python and JavaScript.
+    *   **Estimated Time Commitment:** 5-7 hours/week
+    *   **Link:** [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) and [https://www.youtube.com/playlist?list=PLhQjrBD2WJJMw-212jXQ6a6e9vT0lWz8l](https://www.youtube.com/playlist?list=PLhQjrBD2WJJMw-212jXQ6a6e9vT0lWz8l) (YouTube playlist)
+    *   **Cost:** Free to audit on edX, free on YouTube.
+    *   **Why it Matches:**  Uses visual aids in lectures, problem sets with graphical output, and teaches fundamental concepts that will benefit you regardless of your specific career path.  The lectures are engaging and accessible.
+
+3.  **Resource Name:** Coding Train
+    *   **Provider:** YouTube Channel
+    *   **Description:** A YouTube channel run by Daniel Shiffman, which focuses on creative coding using Processing (Java) and p5.js (JavaScript). Covers topics like generative art, simulations, and data visualization.
+    *   **Estimated Time Commitment:** 3-5 hours/week
+    *   **Link:** [https://www.youtube.com/@TheCodingTrain](https://www.youtube.com/@TheCodingTrain)
+    *   **Cost:** Free
+    *   **Why it Matches:**  Highly visual and focused on creative applications of code. You'll be creating interactive visuals and animations.  Great for visual learners who want to see immediate results.
+
+**B. Suggested Schedule (Computer Science):**
+
+*   **Monday:** freeCodeCamp (2 hours) - Focus on HTML/CSS or JavaScript modules.
+*   **Tuesday:** CS50 (2 hours) - Watch lectures and do problem sets.
+*   **Wednesday:** freeCodeCamp (2 hours) - Work on coding projects.
+*   **Thursday:** CS50 (2 hours) - Work on problem sets.
+*   **Friday:** Coding Train (3 hours) - Watch videos and experiment with creative coding.
+*   **Saturday:** freeCodeCamp (3 hours) - Review and work on projects.
+*   **Sunday:** Free Day.
+
+**III. Additional Tools and Communities:**
+
+*   **Visual Studio Code (VS Code):** A free and powerful code editor with excellent support for many programming languages.
+    *   [https://code.visualstudio.com/](https://code.visualstudio.com/)
+*   **GitHub:** A platform for version control and collaboration.  Learn to use Git and GitHub to manage your projects.
+    *   [https://github.com/](https://github.com/)
+*   **Stack Overflow:** A Q&A website for programmers.  Search for solutions to coding problems and ask questions.
+    *   [https://stackoverflow.com/](https://stackoverflow.com/)
+*   **Reddit (r/learnprogramming, r/computerscience):** Online communities for programmers and computer science enthusiasts.  Ask questions, share your projects, and learn from others.
+    *   [https://www.reddit.com/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)
+    *   [https://www.reddit.com/r/computerscience/](https://www.reddit.com/r/computerscience/)
+*   **Discord Servers:**  Many online communities dedicated to specific programming languages or topics.  Search for relevant Discord servers to join and interact with other learners.
+
+**IV. Key Considerations:**
+
+*   **Consistency is Key:** Stick to your schedule as much as possible. Even a little bit of progress each day will add up over time.
+*   **Don't Be Afraid to Ask for Help:** Use online forums and communities to get help when you're stuck.  Asking questions is a sign of learning!
+*   **Practice Regularly:** The more you practice, the better you'll become.  Focus on building projects and solving problems.
+*   **Track Your Progress:** Keep a log of what you've learned and the projects you've completed.  This will help you stay motivated and see how far you've come.
+*   **Adjust as Needed:** This plan is a starting point. Feel free to adjust the schedule, resources, and topics based on your individual needs and interests. If you find something isn't working, don't be afraid to switch gears.
+*   **Take Breaks:**  It's important to take breaks to avoid burnout.  Get up and move around, spend time outdoors, and do things you enjoy.
+
+This structured plan should give you a solid foundation to improve your mathematics and computer science skills. Good luck with your learning journey! Remember to be patient, persistent, and enjoy the process!

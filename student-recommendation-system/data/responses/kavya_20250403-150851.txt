@@ -1,0 +1,98 @@
+Okay, here's a personalized learning plan based on your preferences, focusing on free resources and visual learning for Mathematics and Computer Science at an intermediate level for a High School student with 10 hours per week availability:
+
+**Overall Strategy:** We'll split the 10 hours equally between Math and Computer Science (5 hours each).  The focus will be on visually engaging content, supplementing online courses with practice problems and exploring relevant communities.
+
+**I. Mathematics**
+
+**Learning Goal:** I want to improve my skills in Calculus and pre-calculus topics.
+
+**Recommended Resources:**
+
+1.  **Resource Name:** Khan Academy Calculus AB / BC
+    *   **Provider:** Khan Academy
+    *   **Description:** A comprehensive, visually rich course covering the fundamentals of Calculus, including limits, derivatives, integrals, and applications. They use screencast videos with hand-drawn explanations and interactive exercises. Also review their Precalculus Course to build a solid foundation.
+    *   **Estimated Time Commitment:** 2-3 hours per week
+    *   **Link:** [https://www.khanacademy.org/math/calculus-ab](https://www.khanacademy.org/math/calculus-ab) and [https://www.khanacademy.org/math/precalculus](https://www.khanacademy.org/math/precalculus)
+    *   **Cost:** Free
+    *   **Why it Matches Your Preferences:** Khan Academy excels at visual explanations, breaking down complex concepts into digestible chunks. The interactive exercises provide immediate feedback, reinforcing your understanding. It's completely free.
+
+2.  **Resource Name:** 3Blue1Brown "Essence of Calculus"
+    *   **Provider:** YouTube Channel - 3Blue1Brown
+    *   **Description:** A series of visually stunning animations that provide an intuitive understanding of Calculus concepts. This doesn't replace traditional instruction but offers a deeper, more visual perspective.
+    *   **Estimated Time Commitment:** 1 hour per week (watching videos and thinking about the concepts)
+    *   **Link:** [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    *   **Cost:** Free
+    *   **Why it Matches Your Preferences:** This channel is *all* about visual learning. It's designed to build your intuition for Calculus in a way that traditional textbooks often fail to do.
+
+3.  **Resource Name:**  MIT OpenCourseWare: Single Variable Calculus
+    *   **Provider:** MIT
+    *   **Description:** Lecture videos of actual MIT courses on single-variable calculus. While not strictly *designed* for visual learning, the lectures often include visual aids and whiteboard explanations. Provides a more formal, rigorous approach.
+    *   **Estimated Time Commitment:** 1-2 hours per week (select lectures based on topics you're struggling with)
+    *   **Link:** [https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+    *   **Cost:** Free
+    *   **Why it Matches Your Preferences:** Provides a more in depth, university level exposure to the topic.
+
+**II. Computer Science**
+
+**Learning Goal:** I want to improve my skills in Python programming and algorithm design.
+
+**Recommended Resources:**
+
+1.  **Resource Name:**  Codecademy: Learn Python 3
+    *   **Provider:** Codecademy
+    *   **Description:** An interactive, browser-based course that teaches Python through hands-on coding exercises. Uses a split-screen approach: instructions on one side, code editor on the other.
+    *   **Estimated Time Commitment:** 2-3 hours per week
+    *   **Link:** [https://www.codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)
+    *   **Cost:** Free (with a paid "Pro" option for extra content, but the free version is excellent for beginners/intermediate).
+    *   **Why it Matches Your Preferences:** Codecademy's interactive approach is visually engaging. You see the code, the output, and the immediate results of your changes.
+
+2.  **Resource Name:**  FreeCodeCamp: Scientific Computing with Python
+    *   **Provider:** FreeCodeCamp
+    *   **Description:** A comprehensive certification curriculum that covers Python programming, data analysis, and machine learning.  It's project-based, so you'll learn by building actual applications.  Excellent for solidifying your skills.
+    *   **Estimated Time Commitment:** 2-3 hours per week
+    *   **Link:** [https://www.freecodecamp.org/learn/scientific-computing-with-python/](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+    *   **Cost:** Free
+    *   **Why it Matches Your Preferences:** Builds real-world Python skills and provides a visual, project-based learning environment.  You see the application of your code.
+
+3.  **Resource Name:**  Visualgo
+    *   **Provider:**  Steven Halim, Felix Halim
+    *   **Description:** A website that visually demonstrates various algorithms and data structures, like sorting algorithms, search algorithms, graph algorithms, and more.
+    *   **Estimated Time Commitment:** 1 hour per week (exploring different algorithms)
+    *   **Link:** [https://visualgo.net/en](https://visualgo.net/en)
+    *   **Cost:** Free
+    *   **Why it Matches Your Preferences:**  This is *the* resource for visually understanding how algorithms work. The animations are clear and helpful.
+
+**III. Suggested Schedule (10 hours per week):**
+
+*   **Monday:**
+    *   Math: Khan Academy Calculus (1 hour)
+    *   CS: Codecademy Python (1 hour)
+*   **Tuesday:**
+    *   Math: Khan Academy Precalculus (1 hour)
+    *   CS: FreeCodeCamp Python (1 hour)
+*   **Wednesday:** Rest Day
+*   **Thursday:**
+    *   Math: 3Blue1Brown Essence of Calculus (1 hour)
+    *   CS: Visualgo Algorithm Visualization (1 hour)
+*   **Friday:**
+    *   Math: MIT OpenCourseWare Calculus (1 hour - optional depending on your week)
+    *   CS: Codecademy Python Project (1 hour)
+*   **Weekend:**  Use the weekend for catching up on any missed topics, reviewing concepts, working on projects, or exploring additional resources.  This is also a good time to participate in online communities.
+
+**IV. Additional Tools and Communities:**
+
+*   **Discord Servers:** Search for Discord servers related to Python, Computer Science, or Mathematics. These are great for asking questions, getting help, and collaborating with other learners.
+*   **Stack Overflow:**  A question-and-answer website for programmers.  It's a valuable resource for finding solutions to coding problems.
+*   **Reddit:** Subreddits like r/learnpython, r/computerscience, and r/math can offer advice, resources, and community support.
+*   **GeoGebra:** A free and dynamic mathematics software for all levels of education that joins geometry, algebra, spreadsheets, graphing, statistics and calculus in one easy-to-use package.
+*   **Desmos Graphing Calculator:** A free, online graphing calculator that's perfect for visualizing functions and exploring mathematical concepts.
+
+**Important Considerations:**
+
+*   **Consistency is Key:**  Even dedicating a small amount of time each day/week is more effective than cramming.
+*   **Don't Be Afraid to Ask for Help:**  Utilize online communities and forums to get help when you're stuck.
+*   **Practice, Practice, Practice:**  The more you practice, the better you'll understand the concepts.
+*   **Adjust as Needed:** This is just a starting point.  Adjust the schedule and resources based on your individual needs and progress. If you're finding something too easy, move on to more challenging material. If you're struggling, review the fundamentals.
+*   **Celebrate Small Wins:** Acknowledge your progress and celebrate your accomplishments. This will help you stay motivated.
+
+This learning plan is designed to provide a structured and engaging learning experience that aligns with your preferences and goals. Good luck with your studies!

@@ -1,0 +1,94 @@
+Okay, here's a personalized learning plan based on your preferences, focusing on free, visually-oriented resources for Mathematics and Computer Science at an intermediate level, with an 8-hour weekly commitment.
+
+**Overview**
+
+This plan divides your 8 hours per week into roughly equal parts for Mathematics and Computer Science.  Since you are a visual learner, the resources emphasize visual explanations, animations, and interactive elements.  It's a starting point; adjust based on your progress and interests.
+
+**I. Mathematics: Intermediate Level**
+
+**Learning Goal:** Improve understanding of Linear Algebra and Multivariable Calculus concepts, focusing on geometric intuition and practical applications.
+
+**Recommended Resources:**
+
+1.  **Resource Name:**  Essence of Linear Algebra
+    *   **Provider:** 3Blue1Brown (YouTube)
+    *   **Description:** This video series provides a deeply visual understanding of the core concepts of linear algebra, such as vectors, matrices, linear transformations, and eigenvalues/eigenvectors. It focuses on geometric intuition rather than rote memorization.
+    *   **Estimated Time Commitment:** ~4 hours (including watching videos and working through some practice problems)
+    *   **Link:** [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    *   **Cost:** Free
+    *   **Why it matches your preferences:**  Extremely visual and intuitive explanation. Addresses intermediate-level topics. Aligned to video learning style preference.
+
+2.  **Resource Name:**  Multivariable Calculus
+    *   **Provider:** Khan Academy
+    *   **Description:** Covers topics like vector calculus, partial derivatives, multiple integrals, and vector fields. While Khan Academy is not exclusively visual, it uses diagrams, graphs, and interactive elements extensively to explain concepts.
+    *   **Estimated Time Commitment:** ~2-3 hours (including watching videos and working on exercises)
+    *   **Link:** [https://www.khanacademy.org/math/multivariable-calculus](https://www.khanacademy.org/math/multivariable-calculus)
+    *   **Cost:** Free
+    *   **Why it matches your preferences:** Visual explanations and practice exercises. Intermediate difficulty. Online course.
+
+3.  **Resource Name:** Visual Calculus
+    *   **Provider:** University of Tennessee, Knoxville (Professor Gerhard Strohmer)
+    *   **Description:** A visual calculus textbook with animations and interactive tools designed to build calculus intuition.
+    *   **Estimated Time Commitment:** Flexible; can be used for supplementary material or more in-depth study.
+    *   **Link:** [http://archives.math.utk.edu/visual.calculus/](http://archives.math.utk.edu/visual.calculus/)
+    *   **Cost:** Free
+    *   **Why it matches your preferences:** Very visually oriented learning. Good for reference and supplementing other resources.
+
+**II. Computer Science: Intermediate Level**
+
+**Learning Goal:** Improve understanding of Data Structures and Algorithms, focusing on visual representations and implementation.
+
+**Recommended Resources:**
+
+1.  **Resource Name:**  VisuAlgo
+    *   **Provider:** Steven Halim and Felix Halim (National University of Singapore)
+    *   **Description:** VisuAlgo provides interactive visualizations of various data structures and algorithms.  You can step through the execution of algorithms and see how data structures change in real time.  Includes search, sorting, graph, and string algorithms.
+    *   **Estimated Time Commitment:** ~2-3 hours (experimenting with visualizations and understanding how different algorithms work)
+    *   **Link:** [https://visualgo.net/en](https://visualgo.net/en)
+    *   **Cost:** Free
+    *   **Why it matches your preferences:** Highly visual and interactive. Data structures and algorithms are intermediate difficulty.
+
+2.  **Resource Name:** Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
+    *   **Provider:** freeCodeCamp.org (YouTube)
+    *   **Description:** This video course provides a good overview of common data structures (arrays, linked lists, stacks, queues, trees, graphs, etc.) and algorithms. The instructor is a Google Engineer so the explanations are grounded in real-world application.
+    *   **Estimated Time Commitment:** ~ 3-4 hours (watch a section of the videos and work through the exercises)
+    *   **Link:** [https://www.youtube.com/watch?v=RBSGKlAvoiM](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+    *   **Cost:** Free
+    *   **Why it matches your preferences:**  Addresses intermediate topics. Online video. Explanations are relatively easy to understand.
+
+3. **Resource Name:** CS50's Web Programming with Python and JavaScript
+    * **Provider:** Harvard University (edX)
+    * **Description:** This course is great for those with some programming experience and covers how to design and implement databases, APIs, web applications, and more, using Python and JavaScript.
+    * **Estimated Time Commitment:** Varies depending on background.  Start with 1-2 hours/week.
+    * **Link:** [https://www.edx.org/course/web-programming-with-python-and-javascript](https://www.edx.org/course/web-programming-with-python-and-javascript)
+    * **Cost:** Free to audit. (Certificate is paid)
+    * **Why it matches your preferences:** Introduces web programming concepts using Python and JavaScript, both industry-standard languages. While there's coding involved (hands-on), there are visual elements of seeing your code come to life in a website, giving it the visual appeal you're looking for.
+
+**III. Suggested Schedule (8 hours per week)**
+
+*   **Monday:**
+    *   Mathematics: 1.5 hours - 3Blue1Brown - Watch a video and take notes.
+    *   Computer Science: 1.5 hours - VisuAlgo - Experiment with visualizing a specific algorithm.
+*   **Wednesday:**
+    *   Mathematics: 1.5 hours - Khan Academy Multivariable Calculus - Watch a video lesson and complete a practice problem.
+    *   Computer Science: 1.5 hours - freeCodeCamp.org DS & Algorithms - Watch a video section and work through examples.
+*   **Friday:**
+    *   Mathematics: 1 hour - Visual Calculus - Review a concept you are struggling with.
+    *   Computer Science: 1 hour - Harvard's CS50 Web Programming - Watch a video and work on exercises.
+
+**IV. Additional Tools and Communities**
+
+*   **Desmos:** (desmos.com) - Excellent online graphing calculator for visualizing mathematical functions and concepts.
+*   **GeoGebra:** (geogebra.org) - Dynamic mathematics software for geometry, algebra, calculus, and more, with interactive applets.
+*   **Stack Overflow:** (stackoverflow.com) - A Q&A site for programmers; a great resource for getting help with coding problems.
+*   **Reddit:** (reddit.com/r/learnmath, reddit.com/r/learnprogramming) - Online communities for learning math and programming, respectively.
+*   **Discord Servers:** Many online communities exist for specific programming languages, technologies, and mathematical topics. Search for relevant Discord servers on Discord's discovery page.
+
+**Important Notes:**
+
+*   **Adapt and Adjust:** This is just a starting point. Regularly assess your progress and adjust the schedule and resources as needed. If you find a particular resource isn't working for you, don't hesitate to try something different.
+*   **Active Learning:** Don't just passively watch videos or read books. Actively engage with the material by taking notes, working through examples, and trying to apply what you're learning to solve problems.
+*   **Consistency is Key:**  Even if you can't dedicate the full 8 hours some weeks, try to do at least a little bit each week to maintain momentum.
+*   **Seek Help:** Don't be afraid to ask for help when you get stuck. Use the online communities and other resources to connect with other learners and experts.
+
+Good luck with your learning journey!  Let me know if you have any other questions or would like me to refine this plan further.

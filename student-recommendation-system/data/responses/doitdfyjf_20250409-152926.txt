@@ -1,0 +1,65 @@
+Okay, here's a personalized learning plan tailored to your preferences. I've focused on free resources that are suitable for a visual learner in high school with an intermediate skill level in mathematics and computer science.
+
+**Overall Strategy:**
+
+*   **Mathematics:** Reinforce foundational concepts and introduce more advanced topics in a visual manner.
+*   **Computer Science:** Focus on practical coding skills and problem-solving using visual aids and demonstrations.
+*   **Flexibility:** The schedule is a suggestion; adjust it based on your progress and interests.
+*   **Active Learning:** Emphasize practice and problem-solving, not just passive watching.
+
+**1. Mathematics**
+
+*   **Goal:** Strengthen Algebra and Trigonometry skills, introduce Calculus concepts, and develop problem-solving abilities.
+
+| Resource Name and Provider         | Description                                                                                                                                              | Estimated Time Commitment | Link                                                                                                                                 | Cost     | Why it Matches Your Needs                                                                                                                                                                                                                                                                                                                                                         |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Khan Academy: Algebra 2 & Precalculus** | Comprehensive lessons covering advanced algebra, trigonometry, and precalculus topics.  Includes videos, practice exercises, and quizzes.               | 3 hours per week            | [https://www.khanacademy.org/math/algebra2](https://www.khanacademy.org/math/algebra2) and [https://www.khanacademy.org/math/precalculus](https://www.khanacademy.org/math/precalculus) | Free     | Khan Academy uses visual explanations and animated examples to make complex concepts easier to understand. The practice exercises provide immediate feedback, allowing you to identify areas where you need more help.  The structure is well-suited for independent learning.                                                                                                                                    |
+| **3Blue1Brown: Essence of Calculus**    | A series of visually stunning videos explaining the fundamental concepts of calculus in an intuitive way.  Focuses on understanding *why* calculus works. | 1 hour per week            | [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Free     | This YouTube channel's core strength is its exceptional visualization of mathematical concepts. The videos use animations and graphical representations to make calculus accessible and engaging. It complements the more procedural approach of Khan Academy by providing deeper conceptual understanding.                                                                                                                                   |
+| **Mathway**                                | An online problem solver that can handle a wide range of math problems. Shows step-by-step solutions.                                                | As needed (1 hour per week) | [https://www.mathway.com/](https://www.mathway.com/)                                                                                 | Free (Basic), Paid (Premium) | Mathway helps with visual learning by providing step-by-step solutions. Even though the free version has limitations, it provides immense help for visually observing problem-solving and is particularly useful when you're stuck on a problem and need to see how it's done. Just input the math equation and it'll breakdown each step, which is excellent for reinforcing learning.   |
+
+**2. Computer Science**
+
+*   **Goal:** Develop Python programming skills, learn fundamental data structures and algorithms, and explore game development concepts.
+
+| Resource Name and Provider      | Description                                                                                                                                                                       | Estimated Time Commitment | Link                                                                                                                                         | Cost   | Why it Matches Your Needs                                                                                                                                                                                                                                                                                                                                                                                                 |
+| :-------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- | :----- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Codecademy: Learn Python 3**       | An interactive online course that teaches Python programming through hands-on exercises.  Includes quizzes and projects.                                                         | 3 hours per week            | [https://www.codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)                                         | Free   | Codecademy offers a visually appealing interface with clear instructions and immediate feedback. You'll learn by doing, which is crucial for solidifying your understanding of programming concepts.  The course breaks down complex topics into manageable chunks.                                                                                                                                                           |
+| **FreeCodeCamp: Scientific Computing with Python** | This provides a certification including multiple projects that will solidify your learning.                                                                                                                                                          | 3 hours per week            | [https://www.freecodecamp.org/learn/scientific-computing-with-python/](https://www.freecodecamp.org/learn/scientific-computing-with-python/)                                         | Free   | FreeCodeCamp is a project-based platform. You will get to practice what you've learned through the interactive python lessons on Codecademy in a real-world setting.                                                                                                                                                             |
+| **Sentdex: Python Programming Tutorials** | Derek Banas (Sentdex) provides various Python tutorials for all levels of learning.  He provides a wide range of Python tutorials from game to finance.                                                       | 1 hour per week            | [https://pythonprogramming.net/](https://pythonprogramming.net/)                                         | Free   | While not exclusively visual, Sentdex often uses code visualization techniques and provides clear explanations.  His approach is very hands-on, focusing on practical examples and real-world applications, ensuring you have a solid understanding of how to implement these concepts using Python. The topics are incredibly diverse and the website itself is very easy to navigate.                                                     |
+
+**3. Suggested Weekly Schedule (10 hours total)**
+
+*   **Monday:**
+    *   Mathematics: Khan Academy (1 hour)
+    *   Computer Science: Codecademy (1 hour)
+*   **Tuesday:**
+    *   Mathematics: Khan Academy (1 hour)
+*   **Wednesday:**
+    *   Computer Science: Codecademy (1 hour)
+*   **Thursday:**
+    *   Mathematics: 3Blue1Brown (1 hour) + Mathway as needed
+*   **Friday:**
+    *   Computer Science: Sentdex (1 hour)
+*   **Saturday:**
+    *   Computer Science: FreeCodeCamp (2 hours)
+*   **Sunday:**
+    *   Rest or catch up on areas where you feel behind.
+
+**4. Additional Tools and Communities**
+
+*   **Geogebra:** (Free; [https://www.geogebra.org/](https://www.geogebra.org/)) Dynamic mathematics software for graphing functions, geometry, algebra, calculus, and statistics.  Excellent for visualizing mathematical concepts.
+*   **Desmos:** (Free; [https://www.desmos.com/](https://www.desmos.com/)) A powerful online graphing calculator that's easy to use and visually appealing.  Ideal for exploring mathematical functions and relationships.
+*   **Discord Servers:** Search for Discord servers related to math and computer science.  These communities offer a place to ask questions, share resources, and connect with other learners.  Examples:  "r/learnprogramming" or mathematics-focused Discord servers.
+*   **Stack Overflow:** (Free; [https://stackoverflow.com/](https://stackoverflow.com/))  A Q&A site for programmers.  Search for answers to your coding questions or ask your own.  Learn how to formulate effective search queries.
+*   **Reddit:** (Free; [https://www.reddit.com/](https://www.reddit.com/)) Subreddits like r/learnprogramming, r/math, r/learnmath, and r/compsci are great for finding resources, asking questions, and staying up-to-date on the latest developments.
+
+**Important Considerations:**
+
+*   **Stay Consistent:** Even short, regular study sessions are more effective than infrequent, long sessions.
+*   **Don't Be Afraid to Ask for Help:** Utilize online forums and communities to get assistance when you're stuck.
+*   **Practice Regularly:** The best way to learn mathematics and computer science is by doing problems and writing code.
+*   **Take Breaks:** Avoid burnout by taking regular breaks during your study sessions.
+*   **Customize Your Learning:** Adjust the schedule and resources based on your individual needs and interests. If a resource isn't working for you, don't be afraid to switch to something else.
+*   **Focus on Understanding:** Don't just memorize formulas or code. Strive to understand the underlying concepts.
+
+This comprehensive plan should provide a solid foundation for improving your mathematics and computer science skills. Good luck with your learning journey!

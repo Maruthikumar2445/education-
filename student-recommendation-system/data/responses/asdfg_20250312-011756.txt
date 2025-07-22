@@ -1,0 +1,126 @@
+Okay, here's a personalized learning plan tailored to your high school level, visual learning style, and interests in mathematics and computer science, focusing on free resources and a 40-hour-per-week commitment.
+
+**Overview**
+
+This plan is structured to dedicate roughly 20 hours per week to Mathematics and 20 hours per week to Computer Science.  Within each subject, we'll cover different topics/courses and allocate your time accordingly. Remember to adjust the schedule based on your personal pace and understanding.
+
+**Mathematics (20 hours/week)**
+
+Your goal here is to solidify intermediate skills.  We'll focus on advanced algebra/precalculus topics that form a strong foundation for calculus.
+
+**1. Recommended Resources:**
+
+*   **Resource Name:** Khan Academy - Algebra 2 / Precalculus
+    *   **Provider:** Khan Academy
+    *   **Description:**  A comprehensive online course covering topics from polynomial functions and rational expressions to trigonometry and conic sections. Features video lessons, practice exercises, and progress tracking.
+    *   **Estimated Time Commitment:** 8 hours/week (lessons & practice)
+    *   **Link:** [https://www.khanacademy.org/math/algebra2](https://www.khanacademy.org/math/algebra2)  OR  [https://www.khanacademy.org/math/precalculus](https://www.khanacademy.org/math/precalculus) (Choose based on your current level)
+    *   **Cost:** Free
+    *   **Why it fits:**  Khan Academy excels at visual explanations.  The video lessons break down complex concepts into digestible segments. The practice exercises reinforce the concepts and offer immediate feedback. It's ideal for visual learners who benefit from seeing step-by-step problem-solving.
+
+*   **Resource Name:** 3Blue1Brown - Essence of Calculus
+    *   **Provider:** YouTube Channel
+    *   **Description:** A series of visually rich videos that explain the fundamental concepts of calculus with animations and geometric interpretations.  It offers a deeper understanding of calculus principles, making it easier to grasp the core concepts before delving into complex calculations.
+    *   **Estimated Time Commitment:** 4 hours/week
+    *   **Link:** [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    *   **Cost:** Free
+    *   **Why it fits:** 3Blue1Brown is *perfect* for visual learners. The channel uses incredibly engaging animations and diagrams to explain mathematical concepts.  This precalculus series lays a visual foundation for calculus, making it more intuitive.
+
+*   **Resource Name:** MIT OpenCourseWare - Single Variable Calculus
+    *   **Provider:** MIT
+    *   **Description:** A full course including lecture videos, problem sets, and exams.  While *it's a full calculus course*, focusing on the problem sets and working through examples can significantly improve your understanding of the underlying math you learned in the other resources.
+    *   **Estimated Time Commitment:** 4 hours/week (focused on problem sets and examples)
+    *   **Link:** [https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+    *   **Cost:** Free
+    *   **Why it fits:**  The lecture videos provide different perspectives. While potentially not as visually engaging as 3Blue1Brown, seeing a professor teach the material and working through rigorous problems will deepen your understanding.
+
+*   **Resource Name:** Paul's Online Math Notes - Algebra / Precalculus
+    *   **Provider:** Lamar University
+    *   **Description:** A website with very detailed and thorough notes covering algebra and precalculus topics.  It provides written explanations and numerous worked-out examples.
+    *   **Estimated Time Commitment:** 4 hours/week (using as a reference and for supplemental practice)
+    *   **Link:** [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
+    *   **Cost:** Free
+    *   **Why it fits:** While not primarily visual, the site's clear explanations and step-by-step examples help visualize the problem-solving process.  It serves as a great complement to the video resources.
+
+**Computer Science (20 hours/week)**
+
+We'll focus on the fundamentals of programming using Python, data structures, and algorithms.
+
+**1. Recommended Resources:**
+
+*   **Resource Name:** freeCodeCamp - Scientific Computing with Python
+    *   **Provider:** freeCodeCamp
+    *   **Description:** A comprehensive, project-based curriculum that teaches Python programming from the basics to building scientific computing applications. You'll learn data structures, algorithms, and object-oriented programming.  Excellent interactive coding exercises.
+    *   **Estimated Time Commitment:** 10 hours/week (lessons, exercises, and projects)
+    *   **Link:** [https://www.freecodecamp.org/learn/scientific-computing-with-python/](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+    *   **Cost:** Free
+    *   **Why it fits:**  FreeCodeCamp's interactive environment is great for learning-by-doing. While primarily text-based, the code visualization and project-based approach help in understanding the concepts practically.
+
+*   **Resource Name:** Harvard's CS50: Introduction to Computer Science
+    *   **Provider:** edX (Audit the course for free)
+    *   **Description:** A well-regarded introductory computer science course that covers fundamental concepts like algorithms, data structures, memory management, and web development.  Taught in C, but transitions to Python later in the course.  Assignments are challenging but rewarding.
+    *   **Estimated Time Commitment:** 5 hours/week (lectures and problem sets)
+    *   **Link:** [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    *   **Cost:** Free to audit (no certificate).
+    *   **Why it fits:** CS50 includes excellent video lectures and visualizations that help understand complex computer science topics.  The problem sets provide practical experience and solidify the concepts.
+
+*   **Resource Name:** Visualgo
+    *   **Provider:** Visualgo
+    *   **Description:** A website that visualizes data structures and algorithms. You can watch how different algorithms work step-by-step, which helps in understanding their behavior and performance.
+    *   **Estimated Time Commitment:** 3 hours/week
+    *   **Link:** [https://visualgo.net/en](https://visualgo.net/en)
+    *   **Cost:** Free
+    *   **Why it fits:**  This is specifically designed for visual learners!  You can see sorting algorithms in action, watch how trees are traversed, and observe the mechanics of other fundamental data structures.
+
+*   **Resource Name:** YouTube Channels: Traversy Media, Corey Schafer (Python Tutorials)
+    *   **Provider:** YouTube
+    *   **Description:**  These channels offer numerous Python tutorials covering various topics, from beginner to advanced.
+    *   **Estimated Time Commitment:** 2 hours/week (supplementing learning)
+    *   **Link:** [https://www.youtube.com/@TraversyMedia](https://www.youtube.com/@TraversyMedia),  [https://www.youtube.com/@coreyms](https://www.youtube.com/@coreyms)
+    *   **Cost:** Free
+    *   **Why it fits:**  Excellent for seeing practical coding examples and getting alternative explanations for concepts you're struggling with.  The visual demonstration of coding helps solidify understanding.
+
+**Suggested Schedule (Example - Adjust to your preference)**
+
+This is a sample schedule. Feel free to modify it based on your energy levels and preferences.
+
+**Monday - Friday:**
+
+*   **Morning (9:00 AM - 12:00 PM):** Computer Science - freeCodeCamp (5 hours)
+*   **Lunch (12:00 PM - 1:00 PM)**
+*   **Afternoon (1:00 PM - 5:00 PM):** Mathematics - Khan Academy & Paul's Online Math Notes (4 hours).  Mix lesson watching and practice exercises.
+*   **Evening (7:00 PM - 9:00 PM):** Computer Science - CS50 Lectures & Problem Sets (2 hours)
+*   **Evening (9:00 PM - 10:00 PM):** Mathematics - 3Blue1Brown & MIT OpenCourseWare (1 hour).
+
+**Saturday:**
+
+*   **Morning (9:00 AM - 12:00 PM):**  Mathematics - Catch-up on missed concepts, work on extra practice problems (3 hours).
+*   **Lunch (12:00 PM - 1:00 PM)**
+*   **Afternoon (1:00 PM - 4:00 PM):** Computer Science - Visualgo (3 hours)
+*   **Evening (6:00 PM - 8:00 PM):** Computer Science - YouTube Tutorial / Coding Project (2 hours)
+
+**Sunday:**
+
+*   Rest, review, or work on a personal project related to math or computer science.
+
+**Additional Tools and Communities**
+
+*   **Coding IDEs:**  VS Code (with Python extension), Repl.it (online IDE). VS Code is more powerful and a great skill to learn.  Repl.it is good for quick experiments.
+*   **Math Software:** Desmos (graphing calculator), GeoGebra (geometry software).  Using Desmos for visualizing math concepts is invaluable.
+*   **Online Forums/Communities:**
+    *   Stack Overflow (for programming questions)
+    *   Reddit: r/learnprogramming, r/math, r/computerscience, r/learnmath
+    *   Discord servers for coding or mathematics.
+*   **Note-taking:**  OneNote, Evernote, or a physical notebook. Visual learners may prefer drawing diagrams and visual notes.  Mind-mapping software can also be helpful.
+
+**Key Considerations and Tips:**
+
+*   **Consistency is Key:** Stick to your schedule as much as possible. Even short, regular study sessions are more effective than long, infrequent ones.
+*   **Active Learning:** Don't just passively watch videos or read. Actively take notes, solve problems, and try to explain concepts in your own words.
+*   **Don't Be Afraid to Ask for Help:** If you're stuck, don't hesitate to ask for help on online forums or from friends/teachers.
+*   **Take Breaks:** Avoid burnout by taking regular breaks and getting enough sleep.
+*   **Practice, Practice, Practice:** The more you practice, the better you'll become.  Coding and math skills are developed through consistent effort.
+*   **Personal Projects:** Work on personal projects to apply your knowledge. This will make learning more engaging and help you retain information.
+*   **Review Regularly:**  Set aside time each week to review what you've learned. This will help solidify your understanding and prevent you from forgetting important concepts.
+
+This plan provides a solid framework for your learning journey. Remember to adapt it to your specific needs and preferences. Good luck!

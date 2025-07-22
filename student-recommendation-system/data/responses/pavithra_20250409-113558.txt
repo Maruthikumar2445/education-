@@ -1,0 +1,117 @@
+Okay, here's a personalized learning plan tailored to your preferences, focusing on free resources for High School Mathematics and Computer Science, geared toward a visual learner at an intermediate level with 10 hours per week to dedicate.
+
+**Summary of Your Preferences:**
+
+*   **Education Level:** High School
+*   **Subjects of Interest:** Mathematics, Computer Science
+*   **Learning Style:** Visual
+*   **Difficulty Level:** Intermediate
+*   **Time Availability:** 10 hours per week
+*   **Learning Goals:** Not specified, so I'll assume improvement in core skills.  Let me know if you have specific goals for a more tailored recommendation.
+*   **Preferred Resource Types:** Online Courses, Videos
+*   **Additional Preferences:** Focusing on free resources
+
+**Assumptions:**
+*   Mathematics: You're looking to solidify algebra, geometry, trigonometry, and potentially introductory calculus concepts.
+*   Computer Science: You're interested in learning the fundamentals of programming, data structures, and algorithms.
+*   "Improve Skills": This is a general goal. We'll focus on building a solid foundation and expanding your knowledge in both areas.  Let me know if you have more specific goals (e.g., "learn web development," "prepare for the AP Calculus exam") and I can tailor this more.
+
+---
+
+**Structured Learning Plan:**
+
+**I. Mathematics**
+
+*   **Learning Goal:** Strengthen core mathematical concepts and prepare for advanced topics.
+
+**1. Recommended Resources:**
+
+*   **Resource Name:** Khan Academy Mathematics (Algebra 1, Geometry, Algebra 2, Trigonometry, Calculus)
+    *   **Provider:** Khan Academy
+    *   **Description:** Comprehensive, video-based lessons covering a wide range of high school mathematics topics.  Includes practice exercises and progress tracking.  Excellent visual explanations.
+    *   **Estimated Time Commitment:** 3-4 hours per week (split between chosen topics)
+    *   **Link:** [https://www.khanacademy.org/math](https://www.khanacademy.org/math)
+    *   **Cost:** Free
+    *   **Why it Matches:** Aligns perfectly with visual learning style due to its heavy use of diagrams, graphs, and step-by-step problem solving shown on screen. Covers intermediate topics well.
+*   **Resource Name:** 3Blue1Brown (Mathematics Explained Visually)
+    *   **Provider:** YouTube Channel
+    *   **Description:**  A YouTube channel dedicated to explaining complex mathematical concepts with stunning visuals and animations. Focuses on deeper understanding and intuition rather than rote memorization.
+    *   **Estimated Time Commitment:** 1-2 hours per week (watching and thinking about the concepts)
+    *   **Link:** [https://www.youtube.com/c/3Blue1Brown](https://www.youtube.com/c/3Blue1Brown)
+    *   **Cost:** Free
+    *   **Why it Matches:**  Emphasizes visual understanding of mathematical principles. Great for gaining intuition about concepts you might be learning elsewhere.
+*   **Resource Name:** GeoGebra
+    *   **Provider:** GeoGebra
+    *   **Description:** Dynamic mathematics software for all levels of education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus in one easy-to-use package.
+    *   **Estimated Time Commitment:** 30 minutes per week
+    *   **Link:** [https://www.geogebra.org/](https://www.geogebra.org/)
+    *   **Cost:** Free
+    *   **Why it Matches:** Interactive graphing calculators with dynamic geometry to allow the user to see visual representations of math.
+
+**II. Computer Science**
+
+*   **Learning Goal:** Learn the fundamentals of programming and introductory data structures.
+
+**1. Recommended Resources:**
+
+*   **Resource Name:** CS50: Introduction to Computer Science
+    *   **Provider:** Harvard University (via edX and YouTube)
+    *   **Description:** A foundational computer science course that teaches algorithmic thinking and programming principles using C, Python, and other languages. Features engaging lectures and problem sets.
+    *   **Estimated Time Commitment:** 4-5 hours per week (lectures, problem sets)
+    *   **Link:** [https://cs50.harvard.edu/x/2024/](https://cs50.harvard.edu/x/2024/) (Course Website) - Find lectures on YouTube.
+    *   **Cost:** Free (audit option on edX, full course materials are free)
+    *   **Why it Matches:**  Visual explanations of algorithms, diagrams, and clear coding examples. Engaging instructor. Covers foundational concepts well.
+*   **Resource Name:** freeCodeCamp (Responsive Web Design Certification)
+    *   **Provider:** freeCodeCamp
+    *   **Description:** Learn HTML, CSS, and JavaScript through interactive challenges and projects. Great for visual learners because you immediately see the results of your code.
+    *   **Estimated Time Commitment:** 2-3 hours per week
+    *   **Link:** [https://www.freecodecamp.org/learn/responsive-web-design/](https://www.freecodecamp.org/learn/responsive-web-design/)
+    *   **Cost:** Free
+    *   **Why it Matches:** Visually focused. See the results of your changes instantly.  Project-based learning helps reinforce understanding.
+*   **Resource Name:** Visualgo
+    *   **Provider:** Steven Halim and Felix Halim
+    *   **Description:** A website that visually demonstrates the behavior of common data structures and algorithms.  Allows you to step through the processes.
+    *   **Estimated Time Commitment:** 30 minutes per week (when learning new algorithms)
+    *   **Link:** [https://visualgo.net/en](https://visualgo.net/en)
+    *   **Cost:** Free
+    *   **Why it Matches:**  Perfect for visual learners struggling to understand how algorithms and data structures work.
+
+**III. Suggested Schedule (10 hours per week)**
+
+This is a sample schedule; feel free to adjust based on your preferences and energy levels.
+
+*   **Monday:**
+    *   Computer Science: CS50 Lecture (1 hour)
+    *   Mathematics: Khan Academy practice (30 minutes)
+*   **Tuesday:**
+    *   Computer Science: CS50 Problem Set (1.5 hour)
+    *   Mathematics: 3Blue1Brown video (30 minutes)
+*   **Wednesday:**
+    *   Computer Science: freeCodeCamp (1 hour)
+    *   Mathematics: Khan Academy lesson/practice (1 hour)
+*   **Thursday:**
+    *   Computer Science: freeCodeCamp (1 hour)
+    *   Mathematics: GeoGebra (30 minutes)
+*   **Friday:**
+    *   Computer Science: Visualgo (30 minutes)
+    *   Flexibility:  Review topics you struggled with, explore other resources, or take a break!
+
+**IV. Additional Tools and Communities**
+
+*   **Online Communities:**
+    *   **Stack Overflow:** (stackoverflow.com) - A Q&A site for programmers.  Search for answers to your coding questions.
+    *   **Reddit:** Subreddits like r/learnprogramming, r/computerscience, r/math, r/learnmath.  Engage with other learners, ask questions, and share resources.
+    *   **Discord Servers:** Many communities dedicated to specific programming languages or areas of mathematics.
+*   **Code Editors/IDEs:**
+    *   **Visual Studio Code (VS Code):**  (code.visualstudio.com) - A popular, free code editor with lots of extensions.
+    *   **Online IDEs:** Replit (replit.com), CodePen (codepen.io) -  Great for experimenting with code in the browser without installing anything.
+
+**V. Important Considerations:**
+
+*   **Consistency is Key:** Even short, regular study sessions are more effective than cramming.
+*   **Don't Be Afraid to Ask for Help:** Utilize online communities and forums when you get stuck.
+*   **Practice Regularly:** The more you practice, the better you'll become at both math and computer science.
+*   **Focus on Understanding, Not Memorization:** Aim to truly understand the underlying concepts, rather than just memorizing formulas or code snippets.
+*   **Adjust as Needed:** This is just a starting point. If a resource isn't working for you, don't be afraid to try something else.  If you are spending too much time on a particular resource and not enjoying it, move on.
+
+Let me know if you have any more specific questions or if you'd like me to tailor this plan further!  For example, are you more interested in web development, data science, game development, or a specific area of math?

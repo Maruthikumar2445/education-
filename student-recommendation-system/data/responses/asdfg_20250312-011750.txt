@@ -1,0 +1,105 @@
+Okay, here's a personalized learning plan tailored to your preferences, focusing on free resources and leveraging your visual learning style:
+
+**Overall Strategy:**
+
+This plan balances structured online courses with supplementary video resources, allowing you to build a strong foundation in both Mathematics and Computer Science. We'll prioritize visual explanations and hands-on practice.  Since you have 40 hours/week, we'll divide it roughly evenly, allowing for flexibility and preventing burnout.
+
+**I. Mathematics (20 hours/week)**
+
+**Top 3 Recommended Resources:**
+
+1.  **Resource:** Khan Academy's "High School Math" Curriculum
+    *   **Provider:** Khan Academy
+    *   **Description:** Covers a comprehensive range of high school math topics, including Algebra I & II, Geometry, Trigonometry, Precalculus, and Statistics.  Khan Academy uses videos, practice exercises, and unit tests to reinforce learning.  Offers clear visual explanations and step-by-step solutions.
+    *   **Estimated Time Commitment:** 10 hours/week (2 hours per day for 5 days)
+    *   **Link:** [https://www.khanacademy.org/math/high-school-math](https://www.khanacademy.org/math/high-school-math)
+    *   **Cost:** Free
+
+    *   **Why it matches your preferences:** Khan Academy's video-based approach is ideal for visual learners. It allows you to pause, rewind, and review concepts as needed.  The interactive exercises provide immediate feedback and reinforce understanding. The curriculum is adaptable to your intermediate level.
+
+2.  **Resource:** MIT OpenCourseWare 18.01 Single Variable Calculus
+    *   **Provider:** MIT OpenCourseWare
+    *   **Description:**  A full calculus course using video lectures to teach calculus to a rigorous college level.
+    *   **Estimated Time Commitment:** 5 hours/week (1 hours per day for 5 days)
+    *   **Link:** [https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+    *   **Cost:** Free
+
+    *   **Why it matches your preferences:** Excellent, detailed lectures will reinforce calculus.
+
+3.  **Resource:** 3Blue1Brown's YouTube Channel
+    *   **Provider:** YouTube
+    *   **Description:**  Grant Sanderson's channel provides beautifully animated explanations of mathematical concepts, making complex topics visually intuitive and engaging. Focus on the "Essence of Calculus" and "Essence of Linear Algebra" series.
+    *   **Estimated Time Commitment:** 5 hours/week (watching videos and working through examples)
+    *   **Link:** [https://www.youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown)
+    *   **Cost:** Free
+
+    *   **Why it matches your preferences:** This is *the* channel for visual learners in mathematics. The animations and explanations are unparalleled.  Supplements Khan Academy and provides deeper conceptual understanding.
+
+**II. Computer Science (20 hours/week)**
+
+**Top 3 Recommended Resources:**
+
+1.  **Resource:** Harvard's CS50x Introduction to Computer Science
+    *   **Provider:** edX (Harvard University)
+    *   **Description:** A foundational course covering computer science principles, programming in C, Python, and web development (HTML, CSS, JavaScript).  Includes video lectures, problem sets, and hands-on projects.
+    *   **Estimated Time Commitment:** 10 hours/week (2 hours per day for 5 days)
+    *   **Link:** [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    *   **Cost:** Free (audit option; certificate requires payment)
+
+    *   **Why it matches your preferences:** CS50x is highly regarded for its engaging video lectures and practical problem sets.  The course is designed to be accessible to beginners, but it moves quickly and covers a broad range of topics.
+
+2.  **Resource:** freeCodeCamp's Responsive Web Design Certification
+    *   **Provider:** freeCodeCamp
+    *   **Description:** A comprehensive curriculum on HTML, CSS, and responsive web design principles.  Features interactive coding challenges and project-based learning.
+    *   **Estimated Time Commitment:** 5 hours/week (focus on coding and completing projects)
+    *   **Link:** [https://www.freecodecamp.org/learn/responsive-web-design/](https://www.freecodecamp.org/learn/responsive-web-design/)
+    *   **Cost:** Free
+
+    *   **Why it matches your preferences:** freeCodeCamp is highly visual and interactive, with a strong emphasis on hands-on coding. The project-based approach allows you to apply your knowledge and build a portfolio.
+
+3.  **Resource:**  The Coding Train (YouTube Channel)
+    *   **Provider:** YouTube
+    *   **Description:** Daniel Shiffman's channel offers creative coding tutorials using Processing, p5.js, and other visual programming tools. Focuses on making coding fun and accessible.
+    *   **Estimated Time Commitment:** 5 hours/week (watching videos, experimenting with code, and building projects)
+    *   **Link:** [https://www.youtube.com/c/TheCodingTrain](https://www.youtube.com/c/TheCodingTrain)
+    *   **Cost:** Free
+
+    *   **Why it matches your preferences:** The Coding Train is perfect for visual learners who want to explore creative coding.  The channel uses visual demonstrations and explains concepts clearly.
+
+**III. Suggested Schedule (40 hours/week)**
+
+This is a sample schedule; adjust it to fit your preferences and energy levels. Remember to take breaks and prioritize your well-being.
+
+*   **Monday - Friday:**
+    *   **9:00 AM - 11:00 AM:**  Khan Academy (Math) or CS50x (Computer Science) - Alternate days
+    *   **11:00 AM - 12:00 PM:**  MIT OCW (Math) - Some days you'll use this to work problems
+    *   **12:00 PM - 1:00 PM:** Lunch Break
+    *   **1:00 PM - 3:00 PM:** freeCodeCamp (Computer Science) or 3Blue1Brown (Math) - Alternate days
+    *   **3:00 PM - 5:00 PM:** The Coding Train (Computer Science)
+*   **Saturday/Sunday:**
+    *   **Flex Time:** Catch up on missed lessons, work on projects, explore additional resources, or take a break!
+
+**IV. Additional Tools and Communities:**
+
+*   **Coding Forums/Communities:**
+    *   **Stack Overflow:**  A Q&A site for programming questions.  (stackoverflow.com)
+    *   **Reddit:** Subreddits like r/learnprogramming, r/compsci, and r/math offer support and advice.
+    *   **Discord Servers:** Many online courses and communities have associated Discord servers for real-time interaction.  CS50x has a very active one.
+*   **Math Forums/Communities:**
+    *   **Math Stack Exchange:** A Q&A site for mathematics questions. (math.stackexchange.com)
+*   **Visual Tools:**
+    *   **Graphing Calculators:** Desmos is a free, powerful online graphing calculator.
+    *   **Diagramming Tools:** Draw.io is a free online tool for creating diagrams and flowcharts.
+*   **Note-Taking Apps:**
+    *   **Obsidian:**  A powerful, free note-taking app that allows you to link your notes together.
+    *   **Evernote or Notion:**  Popular note-taking apps for organizing information.
+
+**Key Tips for Success:**
+
+*   **Be Consistent:**  Stick to your schedule as much as possible. Even small amounts of learning each day can add up over time.
+*   **Active Learning:**  Don't just passively watch videos. Take notes, work through examples, and try to explain concepts in your own words.
+*   **Practice Regularly:**  The best way to learn is by doing.  Work through practice problems and build your own projects.
+*   **Ask for Help:**  Don't be afraid to ask questions when you get stuck.  Online communities are a great resource for support.
+*   **Stay Motivated:**  Set realistic goals, track your progress, and celebrate your achievements.
+
+This plan should give you a solid foundation in both Mathematics and Computer Science. Remember to adapt the plan to your own needs and preferences, and don't be afraid to experiment with different resources and approaches. Good luck with your learning journey!

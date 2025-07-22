@@ -1,0 +1,116 @@
+Okay, here's a structured learning plan tailored to your preferences, focusing on building skills relevant to Large Language Models (LLMs) using mathematics and computer science foundations, with a visual learning style, intermediate difficulty, 10 hours/week, and free resources.
+
+**Overall Strategy:**
+
+The plan is designed to build a solid foundation in the mathematical and computational principles underlying LLMs.  We'll break down the 10 hours/week into segments dedicated to specific topics and resource types. Because your ultimate goal is to understand LLMs, we'll weave that context into the learning where possible.
+
+**1. Mathematics (Focus: Linear Algebra, Calculus, Probability/Statistics)**
+
+*   **Goal:** Develop the mathematical intuition required to understand LLM architectures and training.
+
+*   **Recommended Resources:**
+
+    *   **Resource 1:  Khan Academy Linear Algebra**
+
+        *   **Provider:** Khan Academy
+        *   **Description:** A comprehensive course covering vectors, matrices, linear transformations, and eigenvalues/eigenvectors.  Essential for understanding how LLMs represent and manipulate data.
+        *   **Estimated Time Commitment:** 2 hours/week
+        *   **Link:** [https://www.khanacademy.org/math/linear-algebra](https://www.khanacademy.org/math/linear-algebra)
+        *   **Cost:** Free
+        *   **Why it Matches:** Highly visual with numerous examples and visualizations of vector spaces and transformations.  Intermediate level content.
+
+    *   **Resource 2:  3Blue1Brown's "Essence of Linear Algebra"**
+
+        *   **Provider:** 3Blue1Brown (YouTube)
+        *   **Description:** A series of visually stunning videos that explain the *why* behind linear algebra concepts, not just the *how*.  Provides a deep understanding of linear transformations and their geometric interpretations.
+        *   **Estimated Time Commitment:** 1 hour/week (watching + reviewing notes)
+        *   **Link:** [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+        *   **Cost:** Free
+        *   **Why it Matches:** Exclusively visual and highly effective at building intuition.
+
+    *   **Resource 3:  Khan Academy Statistics and Probability**
+
+        *   **Provider:** Khan Academy
+        *   **Description:** Covers fundamental concepts like probability distributions, hypothesis testing, and regression.  Crucial for understanding the probabilistic nature of LLM outputs and their evaluation metrics.
+        *   **Estimated Time Commitment:** 1.5 hours/week
+        *   **Link:** [https://www.khanacademy.org/math/statistics-probability](https://www.khanacademy.org/math/statistics-probability)
+        *   **Cost:** Free
+        *   **Why it Matches:** Visually oriented with examples and practice exercises.  Provides a solid foundation in statistical concepts.
+
+*   **LLM Connection:**
+    *   LLMs rely on linear algebra for representing words as vectors, and calculus for the gradient descent involved in training
+    *   Statistics and probability help us understand the model's uncertainty and how likely it is to produce a particular output.
+
+**2. Computer Science (Focus: Python, Data Structures, Natural Language Processing Fundamentals)**
+
+*   **Goal:**  Develop programming skills and familiarity with NLP concepts used in LLM development and application.
+
+*   **Recommended Resources:**
+
+    *   **Resource 1:  FreeCodeCamp's "Scientific Computing with Python" Certification**
+
+        *   **Provider:** FreeCodeCamp
+        *   **Description:** A comprehensive, project-based Python course covering essential data science libraries like NumPy, Pandas, and Matplotlib. This foundation is key for working with LLM data.
+        *   **Estimated Time Commitment:** 3 hours/week
+        *   **Link:** [https://www.freecodecamp.org/learn/scientific-computing-with-python/](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+        *   **Cost:** Free
+        *   **Why it Matches:** Project-based learning is practical.  Covers necessary Python skills.
+
+    *   **Resource 2:  Google's Colab Introduction to NLP**
+
+        *   **Provider:** Google (via Colab Notebooks)
+        *   **Description:** Interactive notebooks covering basics of NLP, tokenization, vectorization, and model building using libraries like NLTK and SpaCy.
+        *   **Estimated Time Commitment:** 2 hours/week
+        *   **Link:** Search for "Google Colab NLP Tutorial" - Many free examples are available, especially within Google's own AI learning materials. A good starting point is the Tensorflow website.
+        *   **Cost:** Free
+        *   **Why it Matches:** Combines visual learning (code examples) with hands-on practice.  Introduces NLP concepts in a practical way.
+
+    *   **Resource 3:  Sentdex's Deep Learning with Python (NLP Playlist)**
+
+        *   **Provider:** Sentdex (YouTube)
+        *   **Description:**  A playlist dedicated to NLP using deep learning techniques. Covers concepts like word embeddings (Word2Vec, GloVe), recurrent neural networks (RNNs), and transformers.  (Note: Might be slightly above "intermediate," but the introductory videos are accessible).
+        *   **Estimated Time Commitment:** 0.5 hour/week (watch one video and experiment)
+        *   **Link:** [https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFF53By9cnsizK5KOeqcvl](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFF53By9cnsizK5KOeqcvl)
+        *   **Cost:** Free
+        *   **Why it Matches:** Visual explanations of deep learning concepts.  Sentdex has a good style of visually explaining concepts as well as coding.
+
+*   **LLM Connection:**
+    *   Python is the primary language for LLM development and deployment.
+    *   NLP fundamentals are necessary to understand how LLMs process and generate text.
+    *   Deep learning is the core technology behind most modern LLMs.
+
+**3. Suggested Weekly Schedule (10 Hours)**
+
+*   **Monday:**
+    *   Khan Academy Linear Algebra: 1 hour
+    *   FreeCodeCamp Python: 1.5 hours
+*   **Tuesday:**
+    *   3Blue1Brown Linear Algebra: 0.5 hour
+    *   Google Colab NLP: 1 hour
+*   **Wednesday:**
+    *   Khan Academy Statistics: 1 hour
+    *   FreeCodeCamp Python: 1.5 hours
+*   **Thursday:**
+    *   3Blue1Brown Linear Algebra: 0.5 hour
+*   **Friday:**
+    *   Google Colab NLP: 1 hour
+    *   Khan Academy Statistics: 0.5 hour
+    *   Sentdex Deep Learning NLP: 0.5 hour
+
+**4. Additional Tools and Communities:**
+
+*   **Jupyter Notebooks (Google Colab):**  An interactive coding environment excellent for experimentation and learning.  Free with Google accounts.
+*   **Mathpix Snipping Tool:** Converts images of equations into LaTeX code (for taking notes). Free tier available.
+*   **Stack Overflow:** A Q&A website for programming questions.  Invaluable for debugging.
+*   **Reddit (r/learnprogramming, r/datascience, r/MachineLearning):** Online communities for asking questions and staying up-to-date.
+*   **Discord Servers (related to specific courses or libraries):** Many courses and libraries have dedicated Discord servers where you can get help and connect with other learners.
+
+**Important Considerations:**
+
+*   **Adjust the pace:**  Don't be afraid to slow down or speed up depending on your comprehension.
+*   **Focus on understanding, not memorization:** The goal is to build intuition, not just memorize formulas.
+*   **Practice is key:**  Work through the examples and try applying the concepts to small projects.
+*   **Stay curious:**  Don't be afraid to explore topics that interest you, even if they're not directly part of the plan.
+*   **This is a foundation:** This plan is designed to get you started.  As you learn, you'll discover specific areas of interest within LLMs that you can then pursue in more depth.  For example, you might become fascinated by transformer architectures, fine-tuning techniques, or ethical considerations in LLM development.
+
+Good luck on your learning journey! Let me know if you have any further questions.

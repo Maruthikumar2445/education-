@@ -1,0 +1,95 @@
+Okay, here's a personalized learning plan tailored to your specified preferences. It focuses on free resources, visual learning, and intermediate difficulty, allocating your 10 hours per week across Mathematics and Computer Science.
+
+**I.  Learning Plan Overview**
+
+This plan splits your time roughly 50/50 between Mathematics and Computer Science, allowing for flexibility and preventing burnout. Each week, you'll engage with video lessons, interactive exercises, and potentially some reading, all geared towards visual learners.
+
+**II.  Mathematics Learning Plan**
+
+**A. Recommended Resources:**
+
+1.  **Resource:** Khan Academy - Algebra II/Trigonometry
+    *   **Provider:** Khan Academy
+    *   **Description:** Comprehensive course covering advanced algebra concepts and trigonometry, including polynomial functions, exponential and logarithmic functions, trigonometric functions, and more. Explanations are clear and visual, and the platform includes practice exercises with immediate feedback.
+    *   **Estimated Time Commitment:** 2-3 hours per week
+    *   **Link:** [https://www.khanacademy.org/math/algebra2](https://www.khanacademy.org/math/algebra2)
+    *   **Cost:** Free
+    *   **Why it Matches Preferences:** Khan Academy is excellent for visual learners.  It uses clear explanations, diagrams, and interactive exercises to reinforce concepts. It's free and offers a structured curriculum.
+
+2.  **Resource:** 3Blue1Brown - Essence of Calculus
+    *   **Provider:** Grant Sanderson (YouTube)
+    *   **Description:** A visual and intuitive introduction to calculus concepts like limits, derivatives, and integrals.  The channel uses stunning animations to illustrate complex mathematical ideas, making them easier to grasp.
+    *   **Estimated Time Commitment:** 1-2 hours per week
+    *   **Link:** [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+    *   **Cost:** Free
+    *   **Why it Matches Preferences:** This is PERFECT for a visual learner. 3Blue1Brown is famous for its exceptional mathematical visualizations. While technically calculus, many concepts are valuable for high school students and build a stronger foundation.
+
+3.  **Resource:** MIT OpenCourseware - Single Variable Calculus (18.01SC)
+    *   **Provider:** MIT
+    *   **Description:**  While it's a college-level course, the lecture videos from Professor David Jerison are very clear and cover a range of calculus topics. Even if you don't do all the problem sets, watching the lectures will provide a strong understanding.
+    *   **Estimated Time Commitment:** 1-2 hours per week (focus on lectures, not problem sets initially)
+    *   **Link:** [https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+    *   **Cost:** Free
+    *   **Why it Matches Preferences:** Provides a rigorous but accessible foundation with clear lectures. You can pick and choose which lectures to watch based on what you want to learn, allowing you to go beyond the Khan Academy level.
+
+**B. Suggested Math Schedule (5 hours per week):**
+
+*   **Monday (1.5 hours):** Khan Academy Algebra II - Complete one lesson and its practice exercises.
+*   **Tuesday (1 hour):** Watch 3Blue1Brown - Essence of Calculus.  Take notes on the key concepts.
+*   **Wednesday (1 hour):** MIT OpenCourseware - Watch one lecture from Single Variable Calculus.
+*   **Thursday (1.5 hours):** Khan Academy Algebra II - Review concepts learned this week and complete additional practice exercises on areas you struggled with.
+
+**III. Computer Science Learning Plan**
+
+**A. Recommended Resources:**
+
+1.  **Resource:** freeCodeCamp - Responsive Web Design
+    *   **Provider:** freeCodeCamp
+    *   **Description:** Learn HTML, CSS, and Responsive Design principles.  This is a very visual course, as you build websites as you learn.  You get immediate feedback on your code.
+    *   **Estimated Time Commitment:** 2-3 hours per week
+    *   **Link:** [https://www.freecodecamp.org/learn/2022/responsive-web-design/](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+    *   **Cost:** Free
+    *   **Why it Matches Preferences:** freeCodeCamp uses a highly interactive, visual approach. You code right in the browser and see the results immediately. It's very hands-on and practical.
+
+2.  **Resource:** CS50's Introduction to Computer Science (edX)
+    *   **Provider:** Harvard University (via edX)
+    *   **Description:** A fantastic introduction to the fundamental concepts of computer science, including algorithms, data structures, and programming languages (C, Python, JavaScript). The lectures are highly engaging and visually rich.
+    *   **Estimated Time Commitment:** 2-3 hours per week (Focus on the lectures and early problem sets)
+    *   **Link:** [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    *   **Cost:** Free (audit track; paid for certification)
+    *   **Why it Matches Preferences:** CS50 is known for its engaging lectures and clear explanations. The problem sets are challenging but rewarding. The visual aids used in the lectures are excellent.
+
+3.  **Resource:** The Coding Train (YouTube)
+    *   **Provider:** Daniel Shiffman (YouTube)
+    *   **Description:** This YouTube channel offers creative coding tutorials using Processing (Java-based) and p5.js (JavaScript-based). Learn about generative art, simulations, and more in a visually engaging way.
+    *   **Estimated Time Commitment:** 1-2 hours per week
+    *   **Link:** [https://www.youtube.com/c/TheCodingTrain](https://www.youtube.com/c/TheCodingTrain)
+    *   **Cost:** Free
+    *   **Why it Matches Preferences:** Daniel Shiffman is a master of visual coding. He makes programming fun and accessible with his engaging personality and exciting projects.  Great for reinforcing programming concepts in a creative way.
+
+**B. Suggested CS Schedule (5 hours per week):**
+
+*   **Friday (2 hours):** freeCodeCamp - Complete one section of the Responsive Web Design course.
+*   **Saturday (2 hours):**  CS50 - Watch one lecture.  Start working on the problem set, focusing on understanding the concepts. Don't feel pressured to finish it if you're just auditing.
+*   **Sunday (1 hour):** The Coding Train - Watch a video on a topic that interests you (e.g., generative art with p5.js) and try to replicate the project.
+
+**IV. Additional Tools and Communities**
+
+*   **Online IDEs:** Repl.it or CodePen allow you to write and run code in your browser without installing anything.
+*   **Stack Overflow:** A Q&A site for programming questions. Great for finding solutions to coding problems.
+*   **Discord Servers:** Many online communities are dedicated to programming and specific technologies. Search for Discord servers related to web development, Python, or computer science in general.
+*   **GitHub:** Learn about version control and collaborate on projects with others.
+
+**V.  Important Considerations & Tips**
+
+*   **Flexibility:** This is a suggested schedule; adjust it based on your needs and preferences.  Some weeks you might spend more time on one subject than the other.
+*   **Active Learning:** Don't just passively watch videos. Take notes, try the exercises, and experiment with the code.
+*   **Break Down Large Tasks:** If a project seems overwhelming, break it down into smaller, more manageable steps.
+*   **Don't Be Afraid to Ask for Help:**  Utilize online communities and forums to ask questions and get support.
+*   **Celebrate Your Progress:** Acknowledge your accomplishments and reward yourself for your hard work.
+*   **Stay Consistent:**  Even if you only have a small amount of time, try to dedicate some time to learning each day or week. Consistency is key to long-term success.
+*   **Consider Offline Resources:** While you wanted primarily free online resources, remember that libraries often have great collections of books on mathematics and computer science if you want to explore these avenues as well.
+*   **Adjust Difficulty:** If a resource feels too easy or too difficult, don't be afraid to adjust your learning path. Find resources that are at the right level for you. If something is too hard, step back and review the basics first.
+*   **Focus on Understanding:** Don't just memorize formulas or code.  Strive to understand the underlying concepts.
+
+This plan provides a solid foundation for improving your math and computer science skills. Good luck with your learning journey! Remember to be patient, persistent, and enjoy the process.
